@@ -1,0 +1,123 @@
+﻿.artikli {
+    text-align: center;
+    width: 60%;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: #c9c9c9;
+    border-radius:10px;
+}
+
+#sadrzaj{
+    font-weight:bolder;
+}
+
+.naslov-pocetne {
+    margin-top: 25px;
+    text-align: center;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.naslov-membership {
+    margin-top: 25px;
+    text-align: center;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.naslov-galerije {
+    margin-top: 25px;
+    text-align: center;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.naslov-artikla{
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.naslov-about {
+    text-align: center;
+    padding-top: 25px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#sadrzaj p{
+    text-align: left;
+    padding-left:10px;
+}
+#sadrzaj a {
+    font-size: larger;
+    font-weight: bold;
+}
+#sadrzaj2 p {
+    text-align: left;
+    padding-left: 10px;
+}
+#sadrzaj2 a{
+    font-size:larger;
+    font-weight:bold;
+}
+#sadrzaj3 a {
+    font-size: larger;
+    font-weight: bold;
+}
+#sadrzaj3 p{
+    text-align:left;
+}
+
+div .galerija{
+    background-color:green;
+    margin:5px;
+    padding:10px;
+}
+
+div .strana {
+    background-color: #c9c9c9;
+    position: absolute;
+    right: 25px;
+    width: 35%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+div .divic{
+    font-size:18px;
+    text-align:center;
+    margin:20px;
+}
+div .divic h3{
+    color:black;
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.galerika{
+    margin-left:35px;
+}
+
+div .clanstvo{
+    text-align:center;
+}
+
+div .clanstvo a{
+    font-size:30px;
+}
+
+div .slike-clanstva{
+    width:150px;
+    height:150px;
+}
